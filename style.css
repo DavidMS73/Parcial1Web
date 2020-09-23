@@ -7,3 +7,17 @@
 .text--center {
   text-align: center; /* Align text to the center */
 }
+
+.negrilla {
+  font-weight: bold;
+}
+
+.btn--color-pink {
+  background-color: #f9585e;
+  border-color: #52baba;
+}
+
+.btn--color-gray {
+  background-color: #f3e8dd;
+  border-color: black;
+}
