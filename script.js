@@ -85,7 +85,7 @@ function add2Car(item2Add) {
 function addProductInACategory(productsList, categoryName) {
   categoryName = categoryName.replaceAll(" ", "");
   let idHtml = document.getElementById(categoryName + "Cards");
-  productsList.forEach((element, index) => {
+  productsList.forEach((element) => {
     allProductos.push(element);
 
     let colSpace = document.createElement("div");
