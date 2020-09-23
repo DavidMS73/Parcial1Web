@@ -12,6 +12,18 @@
   font-weight: bold;
 }
 
+.text--color-black {
+  color: black;
+}
+
+.image--height-50 {
+  height: 50px;
+}
+
+.image--width-100 {
+  width: 100%;
+}
+
 .btn--color-pink {
   background-color: #f9585e;
   border-color: #52baba;
